@@ -1,0 +1,22 @@
+.quiz-container{
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+    height: 50em;
+    width: 50em;
+   
+    width: 100%;
+    
+}
+.quiz{
+    background-color: whitesmoke;
+    padding: 4px;
+}
+.btn-quiz{
+    background-color: #BCFFB9;
+    text-align: center;
+    margin-left: 30%;
+    color: black;
+    margin-bottom: 10px;
+}
